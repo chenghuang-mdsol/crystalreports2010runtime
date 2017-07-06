@@ -14,7 +14,7 @@
       Crystal Reports allows users to graphically design data connection(s) and report layout.</summary>
     <releaseNotes />
     <tags>Crystal Reports SAP CrystalReports .NET admin</tags>
-    <packageSourceUrl></packageSourceUrl>
-    <bugTrackerUrl></bugTrackerUrl>
+    <packageSourceUrl>https://github.com/chenghuang-mdsol/crystalreports2010runtime</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/chenghuang-mdsol/crystalreports2010runtime/issues</bugTrackerUrl>
   </metadata>
 </package>
